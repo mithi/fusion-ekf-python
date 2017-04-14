@@ -12,7 +12,7 @@ and you want to make an educated guess about what the system is going to do next
 
 **This extended kalman filter does just that.** 
 
-- Check the Jupyter notebooks to see sample usage and same visualization usage
+- Check the Jupyter notebooks to see sample usage and visualizations
 - Please use the following format for your input file:
 
 ```
